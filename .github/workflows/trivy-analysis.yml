@@ -1,4 +1,4 @@
-name: Scan
+name: trivy_analysis
 on:
   push:
     branches: [ master ]
